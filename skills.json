@@ -1,12 +1,12 @@
 [
-    {
+/*     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
         "name": "ExpressJS",
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
+    }, 
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
@@ -43,6 +43,7 @@
         "name": "Sass",
         "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
+    */
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -59,7 +60,7 @@
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
-    {
+    /*{
         "name": "Kotlin",
         "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
     },
@@ -74,7 +75,7 @@
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
+    },**/
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
@@ -87,6 +88,7 @@
         "name": "PostgreSQL",
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
+    /**
     {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
@@ -106,7 +108,7 @@
     {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
+    },**/
     {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
