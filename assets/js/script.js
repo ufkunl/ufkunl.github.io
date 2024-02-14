@@ -263,6 +263,50 @@ srtop.reveal(".contact .container .form-group", { delay: 400 });
 function getSkills() {
   return [
     {
+      name: "Java",
+      icon: "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+    },
+    {
+      name: "Spring Boot",
+      icon: "https://img.icons8.com/color/48/spring-logo.png",
+    },
+    {
+      name: "Mikroservis",
+      icon: "https://img.icons8.com/cotton/64/network.png",
+    },
+    {
+      name: "MongoDB",
+      icon: "https://img.icons8.com/color/48/000000/mongodb.png",
+    },
+    {
+      name: "MySQL",
+      icon: "https://img.icons8.com/color/48/000000/mysql-logo.png",
+    },
+    {
+      name: "PostgreSQL",
+      icon: "https://img.icons8.com/color/48/000000/postgreesql.png",
+    },
+    {
+      name: "RabbitMQ",
+      icon: "https://img.icons8.com/color/48/000000/easter-rabbit.png",
+    },
+    {
+      name: "Docker",
+      icon: "https://img.icons8.com/color/48/000000/docker.png",
+    },
+    {
+      name: "Kibana",
+      icon: "https://img.icons8.com/color/48/000000/kibana.png",
+    },
+    {
+      name: "Splunk",
+      icon: "https://img.icons8.com/color/48/000000/splunk.png",
+    },
+    {
+      name: "Angular",
+      icon: "https://img.icons8.com/color/48/000000/angularjs.png",
+    },
+    {
       name: "HTML5",
       icon: "https://img.icons8.com/color/48/000000/html-5--v1.png",
     },
@@ -275,8 +319,20 @@ function getSkills() {
       icon: "https://img.icons8.com/color/48/000000/javascript--v1.png",
     },
     {
-      name: "Java",
-      icon: "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+      name: "Jenkins",
+      icon: "https://img.icons8.com/color/48/000000/jenkins.png",
     },
+    {
+      name: "Git VCS",
+      icon: "https://img.icons8.com/color/48/000000/git.png",
+    },
+    {
+      name: "GitHub",
+      icon: "https://img.icons8.com/glyph-neue/48/ffffff/github.png",
+    },
+    {
+      name: "WordPress",
+      icon: "https://img.icons8.com/color/48/000000/wordpress.png",
+    }
   ];
 }
